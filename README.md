@@ -1,2 +1,2 @@
 # Python
-Mi formación en Python se ha basado en premisas y ejercicios que muestro en este repositorio 
+My training in Python has been based on premises and exercises that I show in this repository
